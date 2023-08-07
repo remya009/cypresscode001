@@ -1,0 +1,23 @@
+{
+
+   
+"name" : "Peter",
+"email" : "remya2@gmail.com",
+"password" : "shiva1234",
+"day" : "12",
+"month" : "August",
+"year" : "1995",
+"firstname" : "Manu",
+"lastname" : "singh",
+"company" : "Accenture",
+"address" : "Dunluce",
+"country" : "Canada",
+"state" : "Toronto",
+"city" : "Ontario",
+"zipcode" : "34567",
+"mobileno" : "123456789",
+"clothname" : "Blue Top"
+
+
+
+}
